@@ -149,7 +149,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootsnap (>= 1.4.4)
+  bootsnap (>= 1.4.6)
   byebug
   listen (~> 3.3)
   pg
